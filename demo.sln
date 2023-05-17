@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "demo", "demo\demo.vcxproj", "{09164485-9F6B-4EFF-AC51-018B2816FC44}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Graphics Libriary", "Graphics Libriary\Graphics Libriary.vcxproj", "{766BF2AF-71DC-4088-AC1A-02397926AB91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09164485-9F6B-4EFF-AC51-018B2816FC44}.Debug|Win32.ActiveCfg = Debug|Win32
+		{09164485-9F6B-4EFF-AC51-018B2816FC44}.Debug|Win32.Build.0 = Debug|Win32
+		{09164485-9F6B-4EFF-AC51-018B2816FC44}.Release|Win32.ActiveCfg = Release|Win32
+		{09164485-9F6B-4EFF-AC51-018B2816FC44}.Release|Win32.Build.0 = Release|Win32
+		{766BF2AF-71DC-4088-AC1A-02397926AB91}.Debug|Win32.ActiveCfg = Debug|Win32
+		{766BF2AF-71DC-4088-AC1A-02397926AB91}.Debug|Win32.Build.0 = Debug|Win32
+		{766BF2AF-71DC-4088-AC1A-02397926AB91}.Release|Win32.ActiveCfg = Release|Win32
+		{766BF2AF-71DC-4088-AC1A-02397926AB91}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
